@@ -8,3 +8,5 @@ Data Modeling
 Power BI 
 
 ## Key Insights 
+The dashboard allows dynamic filtering based on customer demographics and policy information 
+Provides a comprehensive overview of insurance claims and customer information
